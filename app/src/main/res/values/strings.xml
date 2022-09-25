@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="instruction">Instruction</string>
+    <string name="shoe_list">Shoe List</string>
+    <string name="shoe_detail">Shoe Detail</string>
+    <string name="shoe_store">Shoe Store</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username..">Enter username or email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_password">Enter password</string>
+    <string name="logout">Logout</string>
+    <string name="skip_tutorial..">Skip tutorial?</string>
+    <string name="your_first_time..">Your first time in Shoe Store?</string>
+    <string name="quick_tutorial">Quick tutorial</string>
+    <string name="get_started">Get started</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="preview">Preview</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="enter_shoe_name">Enter shoe name</string>
+    <string name="enter_shoe_description">Enter shoe description</string>
+    <string name="enter_shoe_size..">Enter shoe size [16 ~ 52]</string>
+    <string name="welcome_in..">Welcome in Shoe Store</string>
+    <string name="log_in..">Log in to get started</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- Formats -->
+    <string name="format_preview_size">%d eu</string>
+
+    <!-- Arrays -->
+    <string-array name="array_companies">
+        <item>Nike</item>
+        <item>ADIDAS</item>
+        <item>Puma</item>
+        <item>Vans</item>
+        <item>Bata</item>
+    </string-array>
+
+</resources>
